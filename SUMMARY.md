@@ -2,7 +2,7 @@
 
 * [Welcome to REtoken!!](README.md)
 * [HowTo: Participate](howto.md)
-* [$RETOKEN](retoken.md)
+* [$RETOKEN Token Policy](retoken.md)
 
 ## Projects
 
