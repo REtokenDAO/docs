@@ -18,6 +18,7 @@
 
 * [TokenTown](projects/tokentown.md)
 * [TokenSummit](projects/tokensummit.md)
+* [Impact Investing](projects/impact-investing.md)
 
 ## Earn $RETOKEN <a href="earn" id="earn"></a>
 
