@@ -1,2 +1,0 @@
-# The Real Estate DAO
-
