@@ -2,7 +2,8 @@
 
 * [Welcome to REtoken!!](README.md)
 * [HowTo: Participate](howto/README.md)
-  * [Working Groups](howto/working-groups.md)
+  * [Working Groups](howto/working-groups/README.md)
+    * [TokenTown Working Groups](howto/working-groups/tokentown-working-groups.md)
 * [White Paper](white-paper.md)
 
 ## DAO Operations
