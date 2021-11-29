@@ -2,6 +2,7 @@
 
 * [Welcome to REtoken!!](README.md)
 * [HowTo: Participate](howto/README.md)
+  * [Community Calls](howto/community-calls.md)
   * [Working Groups](howto/working-groups/README.md)
     * [TokenTown Working Groups](howto/working-groups/tokentown-working-groups.md)
 * [White Paper](white-paper/README.md)

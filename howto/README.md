@@ -10,8 +10,8 @@ Google Calendar: [https://calendar.google.com/calendar/u/0?cid=cmV0b2tlbi5kYW9AZ
 
 ### LiveStream Events
 
-* Community Call | Weekly Wed at 7:15p EDT
-* Core Team | Weekly Planning Session | Sun at 3:15p EDT
+* Community Call | Weekly | Wed at 7p ET / LiveStream GoLive at 7:15p ET
+* Core TEAM | Weekly Planning Session | Sun at 3p ET / LiveStream GoLive at 3:15p ET
 
 > _See Google calendar for specifics_
 
