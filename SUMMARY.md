@@ -5,7 +5,7 @@
   * [Community Calls](howto/community-calls.md)
   * [Working Groups](howto/working-groups/README.md)
     * [TokenTown Working Groups](howto/working-groups/tokentown-working-groups.md)
-* [White Paper](white-paper/README.md)
+* [Lite Paper](white-paper/README.md)
   * [Mission](white-paper/mission/README.md)
     * [The Real Estate DAO](white-paper/mission/the-real-estate-dao.md)
     * [Free Virtual Summit](white-paper/mission/free-virtual-summit.md)
