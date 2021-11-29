@@ -6,7 +6,17 @@ coverY: 0
 
 # Community Calls
 
-We currently host our weekly Community Calls via Zoom and LiveStream to various social media channels, including:
+## Event Details
+
+Our weekly community call is hosted via Zoom and LiveStreamed to multiple video channels.
+
+### Date: 📆 Wed 7p ET
+
+### RSVP to Discord Events for bonus $RETOKEN
+
+We regularly reward extra $RETOKEN for those that RSVP to events in discord.  Don't miss this opportunity!!
+
+### LiveStream Destinations
 
 * [REtoken | YouTube Channel](https://www.youtube.com/channel/UCfVBjbJcIjpzX-NdyMQD4qg)
 * [REtoken | Facebook Page](https://www.facebook.com/REtokenDAO/)
