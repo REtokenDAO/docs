@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Welcome to REtoken!!](README.md)
-* [HowTo: Participate](howto/README.md)
-  * [Community Calls](howto/community-calls.md)
-  * [Working Groups](howto/working-groups/README.md)
-    * [TokenTown Working Groups](howto/working-groups/tokentown-working-groups.md)
+* [HowTo: Participate](participate/README.md)
+  * [Community Calls](participate/community-calls.md)
+  * [Working Groups](participate/working-groups/README.md)
+    * [TokenTown Working Groups](participate/working-groups/tokentown-working-groups.md)
 * [Lite Paper](white-paper/README.md)
   * [Mission](white-paper/mission/README.md)
     * [The Real Estate DAO](white-paper/mission/the-real-estate-dao.md)

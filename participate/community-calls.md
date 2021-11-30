@@ -14,7 +14,7 @@ Our weekly community call is hosted via Zoom and LiveStreamed to multiple video 
 
 ### RSVP to Discord Events for bonus $RETOKEN
 
-We regularly reward extra $RETOKEN for those that RSVP to events in discord.  Don't miss this opportunity!!
+We regularly reward extra $RETOKEN for those who RSVP to events in discord.  Don't miss this opportunity!!
 
 ### LiveStream Destinations
 

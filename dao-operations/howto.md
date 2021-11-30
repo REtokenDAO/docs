@@ -1,6 +1,6 @@
 # HowTo: Earn $RETOKEN
 
-## See Page: [HowTo: Participate](../howto/)
+## See Page: [HowTo: Participate](../participate/)
 
 We reward participation in REtoken events with $RETOKEN.
 
