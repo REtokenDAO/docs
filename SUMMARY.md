@@ -9,9 +9,9 @@
 * [📄 Lite Paper | We #BUIDL](we-buidl/README.md)
   * [We #BUIDL Passive Income](we-buidl/passive-income/README.md)
     * [👥 We](we-buidl/passive-income/we.md)
-    * [#BUIDL](we-buidl/passive-income/buidl.md)
+    * [🛠 #BUIDL](we-buidl/passive-income/buidl.md)
     * [Passive Income](we-buidl/passive-income/passive-income.md)
-    * [with Real Estate](we-buidl/passive-income/with-real-estate.md)
+    * [🏡 with Real Estate](we-buidl/passive-income/with-real-estate.md)
     * [for Everyone](we-buidl/passive-income/for-everyone.md)
   * [We #BUIDL Equitable Affordable Housing](we-buidl/equitable-affordable-housing.md)
 
