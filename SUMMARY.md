@@ -4,14 +4,16 @@
 * [HowTo: Participate](participate/README.md)
   * [Community Calls](participate/community-calls.md)
   * [Working Groups](participate/working-groups/README.md)
+    * [White Paper Working Groups](participate/working-groups/white-paper-working-groups.md)
     * [TokenTown Working Groups](participate/working-groups/tokentown-working-groups.md)
-* [Lite Paper](white-paper/README.md)
-  * [We #BUIDL Passive Income](white-paper/we-buidl-passive-income/README.md)
-    * [👥 We](white-paper/we-buidl-passive-income/we.md)
-    * [#BUIDL](white-paper/we-buidl-passive-income/buidl.md)
-    * [Passive Income](white-paper/we-buidl-passive-income/passive-income.md)
-    * [with Real Estate](white-paper/we-buidl-passive-income/with-real-estate.md)
-    * [for Everyone](white-paper/we-buidl-passive-income/for-everyone.md)
+* [📄 Lite Paper | We #BUIDL](we-buidl/README.md)
+  * [We #BUIDL Passive Income](we-buidl/passive-income/README.md)
+    * [👥 We](we-buidl/passive-income/we.md)
+    * [#BUIDL](we-buidl/passive-income/buidl.md)
+    * [Passive Income](we-buidl/passive-income/passive-income.md)
+    * [with Real Estate](we-buidl/passive-income/with-real-estate.md)
+    * [for Everyone](we-buidl/passive-income/for-everyone.md)
+  * [We #BUIDL Equitable Affordable Housing](we-buidl/equitable-affordable-housing.md)
 
 ## DAO Operations
 
