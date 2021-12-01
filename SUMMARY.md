@@ -23,7 +23,7 @@
   * [$RETOKEN Token Policy](white-paper/retoken.md)
   * [Income Model](white-paper/income-model.md)
   * [We #BUIDL Passive Income](white-paper/we-buidl-passive-income/README.md)
-    * [We](white-paper/we-buidl-passive-income/we.md)
+    * [👥 We](white-paper/we-buidl-passive-income/we.md)
     * [#BUIDL](white-paper/we-buidl-passive-income/buidl.md)
     * [Passive Income](white-paper/we-buidl-passive-income/passive-income.md)
     * [with Real Estate](white-paper/we-buidl-passive-income/with-real-estate.md)
