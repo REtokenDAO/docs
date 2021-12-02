@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to REtoken!!](README.md)
+* [REtoken | The Real Estate DAO](README.md)
 * [HowTo: Participate](participate/README.md)
   * [RSVP in Discord #📅-events](participate/rsvp.md)
   * [Community Calls](participate/community-calls.md)
