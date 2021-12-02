@@ -16,7 +16,7 @@ Our weekly community call is hosted via Zoom and LiveStreamed to multiple video 
 
 ### Date: 📆 Wed 7p ET
 
-### [RSVP in Discord #📅-events](community-calls.md#rsvp-in-discord-events)
+### [RSVP in Discord #📅-events](./#2-rsvp-to-discord-events)
 
 We regularly reward extra $RETOKEN for those who RSVP to events in discord.  Don't miss this opportunity!!
 
