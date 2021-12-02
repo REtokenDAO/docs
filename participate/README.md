@@ -4,7 +4,7 @@
 
 [https://discord.gg/hu93QMMcWS](https://discord.gg/hu93QMMcWS)
 
-## [\[2\] RSVP to Discord #📅-events](./#rsvp-to-discord-events)
+## [\[2\] RSVP to Discord #📅-events](rsvp.md)
 
 ## \[3] Participate in a Scheduled Event
 
