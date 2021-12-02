@@ -2,10 +2,19 @@
 
 * [Welcome to REtoken!!](README.md)
 * [HowTo: Participate](participate/README.md)
+  * [RSVP in Discord #📅-events](participate/rsvp.md)
   * [Community Calls](participate/community-calls.md)
+  * [TEAMs](participate/teams/README.md)
+    * [Ambassadors](participate/teams/ambassadors.md)
+    * [Content TEAM](participate/teams/content-team.md)
+    * [Core TEAM](participate/teams/core-team.md)
+    * [Dev TEAM](participate/teams/dev-team.md)
   * [Working Groups](participate/working-groups/README.md)
     * [White Paper Working Groups](participate/working-groups/white-paper-working-groups.md)
     * [TokenTown Working Groups](participate/working-groups/tokentown-working-groups.md)
+  * [Task Force](participate/task-force/README.md)
+    * [RegCF](participate/task-force/regcf.md)
+    * [TokenSummit](participate/task-force/tokensummit.md)
 * [📄 Lite Paper | We #BUIDL](we-buidl/README.md)
   * [We #BUIDL Passive Income](we-buidl/passive-income/README.md)
     * [👥 We](we-buidl/passive-income/we.md)
@@ -35,6 +44,5 @@
 ## Projects
 
 * [TokenTown](projects/tokentown.md)
-* [TokenSummit](projects/tokensummit.md)
 * [Impact Investing](projects/impact-investing.md)
 * [rHome Coop](projects/rhome-coop.md)
