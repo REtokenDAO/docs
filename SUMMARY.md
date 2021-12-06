@@ -39,6 +39,7 @@
 * [Operating Agreement](dao/operating-agreement.md)
 * [Community Tools / Apps](dao/tools/README.md)
   * [Airtable](dao/tools/airtable.md)
+  * [Coordinape](dao/tools/coordinape.md)
   * [Discord](dao/tools/discord/README.md)
     * [Discord Bots](dao/tools/discord/bots/README.md)
       * [Collab Land](dao/tools/discord/bots/collab-land.md)
