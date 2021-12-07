@@ -46,7 +46,7 @@
       * [DEGEN](dao/tools/discord/bots/degen.md)
       * [MEE6](dao/tools/discord/bots/mee6.md)
       * [sesh](dao/tools/discord/bots/sesh.md)
-    * [Discord Roles](dao/tools/discord/discord-roles.md)
+    * [Discord Roles](dao/tools/discord/roles.md)
   * [GitBook](dao/tools/gitbook.md)
   * [Mailchimp](dao/tools/mailchimp.md)
   * [Mighty Networks](dao/tools/mighty-networks.md)
