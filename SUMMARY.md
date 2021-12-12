@@ -48,6 +48,7 @@
       * [sesh](dao/tools/discord/bots/sesh.md)
     * [Discord Roles](dao/tools/discord/roles.md)
   * [GitBook](dao/tools/gitbook.md)
+  * [🤖 HAL](dao/tools/hal.md)
   * [Mailchimp](dao/tools/mailchimp.md)
   * [Mighty Networks](dao/tools/mighty-networks.md)
   * [Zapier](dao/tools/zapier.md)
