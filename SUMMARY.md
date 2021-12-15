@@ -23,6 +23,7 @@
     * [🏡 with Real Estate](we-buidl/passive-income/4.md)
     * [👥 for Everyone](we-buidl/passive-income/5.md)
   * [We #BUIDL Equitable Affordable Housing](we-buidl/equitable-affordable-housing.md)
+* [❓ FAQ](faq.md)
 
 ## DAO Operations <a href="#dao" id="dao"></a>
 
