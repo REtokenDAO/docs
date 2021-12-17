@@ -1,11 +1,11 @@
 ---
 description: >-
-  We #BUIDL Passive Income with Real Estate for Everyone. REtoken DAO is a
-  tokenized ($RETOKEN) web3 community owned and operated by the people building
-  it.
+  We #BUIDL Passive Income with Real Estate investing for Everyone. REtoken DAO
+  is a tokenized ($RETOKEN) web3 community owned and operated by the people
+  building it.
 ---
 
-# REtoken | The Real Estate DAO
+# 🛠🏡｜REtoken | The Real Estate DAO
 
 ### REtoken Links:
 

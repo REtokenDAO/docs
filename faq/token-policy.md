@@ -1,3 +1,9 @@
+---
+description: >-
+  We #BUIDL Passive Income with Real Estate Investing for Everyone.  $RETOKEN is
+  for fun. Token Contract: 0x48FBAA61DE702becB9b4AC0c6aFe3F9abcaFF914
+---
+
 # $RETOKEN Token Policy
 
 This originally appeared on REtoken: [RIP-1 | Genesis Proposal (Season 0)](https://snapshot.org/#/retokendao.eth/proposal/QmdJUQkW6dNWfuT5BZbx1qWzopgbpEFom1xaVsVCQCT7UD)

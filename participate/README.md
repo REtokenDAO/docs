@@ -1,3 +1,10 @@
+---
+description: >-
+  We #BUIDL Passive Income with Real Estate investing for Everyone.  REtoken has
+  many ways to participate (LiveStream, Zoom, chat, etc).  Start earning
+  $RETOKEN today!!
+---
+
 # HowTo: Participate
 
 ## \[1] Join Discord

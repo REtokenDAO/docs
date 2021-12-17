@@ -1,6 +1,6 @@
 # Table of contents
 
-* [REtoken | The Real Estate DAO](README.md)
+* [🛠🏡｜REtoken | The Real Estate DAO](README.md)
 * [HowTo: Participate](participate/README.md)
   * [RSVP in Discord #📅-events](participate/rsvp.md)
   * [Community Calls](participate/community-calls.md)
@@ -9,21 +9,24 @@
     * [Content TEAM](participate/teams/content-team.md)
     * [Core TEAM](participate/teams/core-team.md)
     * [Dev TEAM](participate/teams/dev-team.md)
+    * [New Platform TEAM](participate/teams/new-platform-team.md)
   * [Working Groups](participate/working-groups/README.md)
     * [White Paper Working Groups](participate/working-groups/white-paper-working-groups.md)
     * [TokenTown Working Groups](participate/working-groups/tokentown-working-groups.md)
   * [Task Force](participate/task-force/README.md)
     * [RegCF](participate/task-force/regcf.md)
     * [TokenSummit](participate/task-force/tokensummit.md)
-* [📄 Lite Paper | We #BUIDL](we-buidl/README.md)
-  * [We #BUIDL Passive Income](we-buidl/passive-income/README.md)
+* [📄 Lite Paper | 🛠🏡｜We #BUIDL](we-buidl/README.md)
+  * [🛠🏡｜We #BUIDL Passive Income](we-buidl/passive-income/README.md)
     * [👥 We](we-buidl/passive-income/1.md)
     * [🛠 #BUIDL](we-buidl/passive-income/2.md)
     * [💰 Passive Income](we-buidl/passive-income/3.md)
     * [🏡 with Real Estate investing](we-buidl/passive-income/4.md)
     * [👥 for Everyone](we-buidl/passive-income/5.md)
-  * [We #BUIDL Equitable Affordable Housing](we-buidl/equitable-affordable-housing.md)
-* [❓ FAQ](faq.md)
+  * [🛠🏡｜We #BUIDL Equitable Affordable Housing](we-buidl/equitable-affordable-housing.md)
+* [❓ FAQ](faq/README.md)
+  * [$RETOKEN Token Policy](faq/token-policy.md)
+  * [Tokenomics](faq/tokenomics.md)
 
 ## DAO Operations <a href="#dao" id="dao"></a>
 
@@ -53,7 +56,6 @@
   * [Mailchimp](dao/tools/mailchimp.md)
   * [Mighty Networks](dao/tools/mighty-networks.md)
   * [Zapier](dao/tools/zapier.md)
-* [$RETOKEN Token Policy](dao/retoken.md)
 * [HowTo: Earn $RETOKEN](dao/howto.md)
 
 ## Projects
