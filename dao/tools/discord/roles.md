@@ -5,8 +5,8 @@
 |$RETOKEN                 | The role gets assigned to those who received $REtokens by participating and/or contributing to the REtoken DAO events such as Community call, Working Group meetings, etc. |
 |$TTCO                    |	Member of the Token Town Colorado project |
 |Ambassadors ReLaunch TEAM|						                                  |
-|Content ReLaunch TEAM    |					                                   	|
-|Core ReLaunch TEAM       |						|
+|Content ReLaunch TEAM    | Who participates and creating content to REtoken and its related projects	|
+|Core ReLaunch TEAM       |	Founders and Genesis members of REtoken |
 |DAO Global Hackathon     |	Who are participating in DAO Global Hackathon |
 |DAOplomat                |						|
 |Dev ReLaunch TEAM        |	Member of Development team, who participates and contributes to build software solutions |
