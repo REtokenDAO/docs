@@ -14,7 +14,7 @@ description: >-
 * Twitter: [https://twitter.com/REtokenDAO](https://twitter.com/REtokenDAO)
 * GitHub: [https://github.com/REtokenDAO](https://github.com/REtokenDAO)
 * Snapshot: [https://snapshot.org/#/retokendao.eth](https://snapshot.org/#/retokendao.eth)
-* LinkedIn: https://linkedin.com/company/retoken
+* LinkedIn: [https://linkedin.com/company/retoken](https://linkedin.com/company/retoken)
 * Boardroom: [https://app.boardroom.info/retokendao.eth](https://app.boardroom.info/retokendao.eth)
 * Coinvise: [http://www.coinvise.co/REtokenDAO](http://www.coinvise.co/REtokenDAO)
 
